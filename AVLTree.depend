@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1458736685 source:g:\datastructs_and_algorithm\code\avltree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avltree.h"
+
+1458737036 g:\datastructs_and_algorithm\code\avltree\avltree.h
+
+1458734816 source:g:\datastructs_and_algorithm\code\avltree\avltree.c
+	<stdio.h>
+	<stdlib.h>
+	"avltree.h"
+
